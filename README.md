@@ -8,6 +8,6 @@ We collected this dataset from different sources and search engines such as YouT
 
 ### If you use this dataset, please cite the following paper.
 
-[AI-assisted Edge Vision for Violence Detection in IoT based Industrial Surveillance Networks](https://ieeexplore.ieee.org/abstract/document/9552469) 
+[**AI-assisted Edge Vision for Violence Detection in IoT based Industrial Surveillance Networks**](https://ieeexplore.ieee.org/abstract/document/9552469) 
 
 Fath U Min Ullah, Khan Muhammad, Ijaz Ul Haq, Noman Khan, Heidari AA, Baik SW, Albuquerque V. IEEE Transactions on Industrial Informatics., 2022
