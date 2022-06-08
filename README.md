@@ -35,6 +35,14 @@ Hockey Fight Dataset: [**Link**](https://www.kaggle.com/datasets/yassershrief/ho
 
 Surveillance Fight Dataset: [**Link**](https://github.com/sayibet/fight-detection-surv-dataset#:~:text=A%20new%20fight%20dataset%20is,streets%2C%20underground%20stations%20and%20more.)
 
+#### AUC and ROC:
+
+![image](https://user-images.githubusercontent.com/43944394/172607598-729a65e2-0650-4cb4-8e43-34a928ec4036.png)
+
+#### Proposed Framework
+
+![image](https://user-images.githubusercontent.com/43944394/172607673-d52926d0-8100-43ac-99ed-7b9180c35552.png)
+
 
 
 ## Please cite the following paper.
