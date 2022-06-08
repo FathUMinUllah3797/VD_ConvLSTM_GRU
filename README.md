@@ -22,7 +22,7 @@ Run Train_model.py
 
 #### Testing a single video:
 
-The code will be uploaded soon.
+The code will be uploaded soon along with other stuffs.
 
 
 #### Note: 
@@ -37,12 +37,11 @@ Surveillance Fight Dataset: [**Link**](https://github.com/sayibet/fight-detectio
 
 #### AUC and ROC:
 
-![image](https://user-images.githubusercontent.com/43944394/172607598-729a65e2-0650-4cb4-8e43-34a928ec4036.png)
+<img src="https://user-images.githubusercontent.com/43944394/172607598-729a65e2-0650-4cb4-8e43-34a928ec4036.png" width="700" height="700">
 
 #### Proposed Framework
 
-![image](https://user-images.githubusercontent.com/43944394/172607673-d52926d0-8100-43ac-99ed-7b9180c35552.png)
-
+<img src="https://user-images.githubusercontent.com/43944394/172607673-d52926d0-8100-43ac-99ed-7b9180c35552.png" width="900" height="700">
 
 
 ## Please cite the following paper.
