@@ -47,7 +47,7 @@ Surveillance Fight Dataset: [**Link**](https://github.com/sayibet/fight-detectio
 ## Please cite the following paper.
 
 #### IEEE Transactions on Industrial Informatics., 2022
-Fath U Min Ullah, Khan Muhammad, Ijaz Ul Haq, Noman Khan, Ali Asghar Heidari, Sung Wook Baik, and Victor Albuquerque. [**"AI assisted Edge Vision for Violence Detection in IoT based Industrial Surveillance Networks.**](https://ieeexplore.ieee.org/abstract/document/9552469) 
+Fath U Min Ullah et al. [**"AI assisted Edge Vision for Violence Detection in IoT based Industrial Surveillance Networks.**](https://ieeexplore.ieee.org/abstract/document/9552469) 
 IEEE Transactions on Industrial Informatics (2021).
 
 Feel free to contact me at : #### fath3797@gmail.com
