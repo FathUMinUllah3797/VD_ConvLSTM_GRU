@@ -47,7 +47,9 @@ Surveillance Fight Dataset: [**Link**](https://github.com/sayibet/fight-detectio
 # Citation:
 
 #### IEEE Transactions on Industrial Informatics., 2022
-Fath U Min Ullah et al. [**"AI assisted Edge Vision for Violence Detection in IoT based Industrial Surveillance Networks.**](https://ieeexplore.ieee.org/abstract/document/9552469) 
-IEEE Transactions on Industrial Informatics (2021).
+Fath U Min Ullah et al. [**AI assisted Edge Vision for Violence Detection in IoT based Industrial Surveillance Networks.**](https://ieeexplore.ieee.org/abstract/document/9552469) 
+IEEE Transactions on Industrial Informatics, 18(8), pp.5359-5370.
 
-Feel free to contact me at : fath3797@gmail.com
+# Notice
+
+We are really sorry to have the raw code, but to ensure the availability of an easy and understandable code we need some time. Feel free to contact me at fath3797@gmail.com if you have any queries or you will be okay with raw format code. Thanks
