@@ -1,5 +1,8 @@
 # AI-assisted-Edge-Vision-for-Violence-Detection-in-IoT-based-Industrial-Surveillance-Networks
 
+# Paper
+https://ieeexplore.ieee.org/abstract/document/9552469
+
 
 #### Industrial Surveillance Dataset.
 The official name of this dataset is Industrial Surveillance Dataset. We collected this dataset from different sources and search engines such as YouTube, Google, etc., by inserting diverse queries like violence scenes in industrial surveillance, in factories, and in steel mills. The obtained videos from different sources have distinct video resolution and frame rate. The length of retrieved videos ranges from 7 to 12 minutes that are trimmed to 5 seconds violent and non-violent clips for each class. We arranged the dataset in the same standard format like Surveillance Fight Dataset. The industrial dataset consists of varied scenes recorded in different industries, stores, offices, and petrol pumps linked to industries. Compared to existing datasets, the Industrial Surveillance Dataset is more challenging because most of the actions are aside of the center point from the camera and the fps varies like other surveillance datasets. Futher details can be found in the paper.
@@ -36,15 +39,15 @@ Hockey Fight Dataset: [**Link**](https://www.kaggle.com/datasets/yassershrief/ho
 Surveillance Fight Dataset: [**Link**](https://github.com/sayibet/fight-detection-surv-dataset#:~:text=A%20new%20fight%20dataset%20is,streets%2C%20underground%20stations%20and%20more.)
 
 
-#### Proposed Framework
+#### Proposed Framework:
 
 <img src="https://user-images.githubusercontent.com/43944394/172607673-d52926d0-8100-43ac-99ed-7b9180c35552.png" width="900" height="700">
 
 
-## Please cite the following paper.
+# Citation:
 
 #### IEEE Transactions on Industrial Informatics., 2022
 Fath U Min Ullah et al. [**"AI assisted Edge Vision for Violence Detection in IoT based Industrial Surveillance Networks.**](https://ieeexplore.ieee.org/abstract/document/9552469) 
 IEEE Transactions on Industrial Informatics (2021).
 
-Feel free to contact me at : #### fath3797@gmail.com
+Feel free to contact me at : fath3797@gmail.com
